@@ -5,7 +5,8 @@
  OnePath是一款益智游戏，游戏规则非常简单。根据所给出的图形，确定一个好的起点，然后连接所有点，但是不能重复覆盖每一条边。现在这款游戏只有60张图，难度分为容易，中等，难。每通过一个关卡，系统会根据时间长短来评分，三颗星即为满分。注意哦，越往后游戏难度将会越大。
 ## 算法介绍
 
-OnePath基于TIZEN web project开发，主要使用了Html与Javascript技术。```js
+OnePath基于TIZEN web project开发，主要使用了Html与Javascript技术。  
+```js
 onclick: function(a, b) {
 			var 
 			f = this,
